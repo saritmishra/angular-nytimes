@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html ng-app="bestSellersApp">
+<head>
+	<title>NY Times BestSellers</title>
+    <base href="/app/"></base>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <style>
+        img {
+            width:100px;
+        };
+        .ng-scope  {
+          border: 1px solid red;
+          margin: 3px;
+        };
+    </style>
+</head>
+
+<body>
+
+    <div class="container" ng-view=""></div>
+
+    <script type="text/javascript" src="lib/angular.js"></script>
+    <script type="text/javascript" src="lib/angular-resource.js"></script>
+    <script type="text/javascript" src="lib/angular-route.js"></script>
+    <script type="text/javascript" src="lib/ui-bootstrap-tpls-0.10.0.js"></script>
+    <script type="text/javascript" src="scripts/app.js"></script>
+    <script type="text/javascript" src="scripts/services/bestSellerFactory.js"></script>
+    <script type="text/javascript" src="scripts/controllers/bestSellerController.js"></script>
+
+</body>
+</html>

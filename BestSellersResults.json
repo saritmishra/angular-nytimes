@@ -1,0 +1,1088 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+    "num_results": 25,
+    "last_modified": "2014-04-11T13:07:16-04:00",
+    "results": [
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 1,
+            "rank_last_week": 0,
+            "weeks_on_list": 177,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0849946158",
+                    "isbn13": "9780849946158"
+                },
+                {
+                    "isbn10": "0849948363",
+                    "isbn13": "9780849948367"
+                },
+                {
+                    "isbn10": "0849922070",
+                    "isbn13": "9780849922077"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "HEAVEN IS FOR REAL",
+                    "description": "A boy's encounter with Jesus and the angels.",
+                    "contributor": "by Todd Burpo with Lynn Vincent",
+                    "author": "Todd Burpo with Lynn Vincent",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Thomas Nelson",
+                    "primary_isbn13": "9780849946158",
+                    "primary_isbn10": "0849946158",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780849946158.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": "http://www.nytimes.com/2011/03/12/books/heaven-is-for-real-is-publishing-phenomenon.html"
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 2,
+            "rank_last_week": 0,
+            "weeks_on_list": 103,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0316007544",
+                    "isbn13": "9780316007542"
+                },
+                {
+                    "isbn10": "0316044695",
+                    "isbn13": "9780316044691"
+                },
+                {
+                    "isbn10": "0316067601",
+                    "isbn13": "9780316067607"
+                },
+                {
+                    "isbn10": "0316067598",
+                    "isbn13": "9780316067591"
+                },
+                {
+                    "isbn10": "031632406X",
+                    "isbn13": "9780316324069"
+                },
+                {
+                    "isbn10": "0316324108",
+                    "isbn13": "9780316324106"
+                },
+                {
+                    "isbn10": "1478927089",
+                    "isbn13": "9781478927082"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "LONE SURVIVOR",
+                    "description": "A harrowing Navy SEALs operation.",
+                    "contributor": "by Marcus Luttrell and Patrick Robinson",
+                    "author": "Marcus Luttrell and Patrick Robinson",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Back Bay/Little, Brown",
+                    "primary_isbn13": "9780316067607",
+                    "primary_isbn10": "0316067601",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316007542.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 3,
+            "rank_last_week": 0,
+            "weeks_on_list": 76,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "1451695187",
+                    "isbn13": "9781451695182"
+                },
+                {
+                    "isbn10": "1451695195",
+                    "isbn13": "9781451695199"
+                },
+                {
+                    "isbn10": "1451695209",
+                    "isbn13": "9781451695205"
+                },
+                {
+                    "isbn10": "1476753024",
+                    "isbn13": "9781476753027"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "PROOF OF HEAVEN",
+                    "description": "A neurosurgeon recounts his near death experience during a coma.",
+                    "contributor": "by Eben Alexander",
+                    "author": "Eben Alexander",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Simon & Schuster",
+                    "primary_isbn13": "9781451695199",
+                    "primary_isbn10": "1451695195",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451695205.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 4,
+            "rank_last_week": 0,
+            "weeks_on_list": 16,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0316240052",
+                    "isbn13": "9780316240055"
+                },
+                {
+                    "isbn10": "0316240079",
+                    "isbn13": "9780316240079"
+                },
+                {
+                    "isbn10": "1599951509",
+                    "isbn13": "9781599951508"
+                },
+                {
+                    "isbn10": "1599952653",
+                    "isbn13": "9781599952659"
+                },
+                {
+                    "isbn10": "1599951495",
+                    "isbn13": "9781599951492"
+                },
+                {
+                    "isbn10": "097743494X",
+                    "isbn13": "9780977434947"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE MONUMENTS MEN",
+                    "description": "Following an Allied group who recovered stolen artworks from the Nazis.",
+                    "contributor": "by Robert M. Edsel with Bret Witter",
+                    "author": "Robert M Edsel with Bret Witter",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Little, Brown",
+                    "primary_isbn13": "9781599951508",
+                    "primary_isbn10": "1599951509",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316240055.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 5,
+            "rank_last_week": 0,
+            "weeks_on_list": 31,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "145162137X",
+                    "isbn13": "9781451621372"
+                },
+                {
+                    "isbn10": "1451621396",
+                    "isbn13": "9781451621396"
+                },
+                {
+                    "isbn10": "1611749786",
+                    "isbn13": "9781611749786"
+                },
+                {
+                    "isbn10": "1451621388",
+                    "isbn13": "9781451621389"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "BRAIN ON FIRE",
+                    "description": "A young reporter suddenly experiences seizures, hallucinations and near catatonia.",
+                    "contributor": "by Susannah Cahalan",
+                    "author": "Susannah Cahalan",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Simon & Schuster",
+                    "primary_isbn13": "9781451621389",
+                    "primary_isbn10": "1451621388",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451621372.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 6,
+            "rank_last_week": 0,
+            "weeks_on_list": 13,
+            "asterisk": 1,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "1400069289",
+                    "isbn13": "9781400069286"
+                },
+                {
+                    "isbn10": "0679603859",
+                    "isbn13": "9780679603856"
+                },
+                {
+                    "isbn10": "030796664X",
+                    "isbn13": "9780307966643"
+                },
+                {
+                    "isbn10": "1847946240",
+                    "isbn13": "9781847946249"
+                },
+                {
+                    "isbn10": "081298160X",
+                    "isbn13": "9780812981605"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE POWER OF HABIT",
+                    "description": "The science behind how we form, and break, habits. ",
+                    "contributor": "by Charles Duhigg",
+                    "author": "Charles Duhigg",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Random House",
+                    "primary_isbn13": "9780812981605",
+                    "primary_isbn10": "081298160X",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780679603856.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 7,
+            "rank_last_week": 0,
+            "weeks_on_list": 148,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0316017922",
+                    "isbn13": "9780316017923"
+                },
+                {
+                    "isbn10": "0316040347",
+                    "isbn13": "9780316040341"
+                },
+                {
+                    "isbn10": "0316017930",
+                    "isbn13": "9780316017930"
+                },
+                {
+                    "isbn10": "1600243916",
+                    "isbn13": "9781600243912"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "OUTLIERS",
+                    "description": "Why some people succeed.",
+                    "contributor": "by Malcolm Gladwell",
+                    "author": "Malcolm Gladwell",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Back Bay/Little, Brown",
+                    "primary_isbn13": "9780316017930",
+                    "primary_isbn10": "0316017930",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316017930.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "http://www.nytimes.com/2008/11/18/books/18kaku.html",
+                    "first_chapter_link": "http://www.nytimes.com/2008/11/30/books/chapters/chapter-outliers.html",
+                    "sunday_review_link": "http://www.nytimes.com/2008/11/30/books/review/Leonhardt-t.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 8,
+            "rank_last_week": 0,
+            "weeks_on_list": 62,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0307352145",
+                    "isbn13": "9780307352149"
+                },
+                {
+                    "isbn10": "0307452204",
+                    "isbn13": "9780307452207"
+                },
+                {
+                    "isbn10": "0307352153",
+                    "isbn13": "9780307352156"
+                },
+                {
+                    "isbn10": "1611734207",
+                    "isbn13": "9781611734201"
+                },
+                {
+                    "isbn10": "0739341243",
+                    "isbn13": "9780739341247"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "QUIET",
+                    "description": "Introverts — one-third of the population — are undervalued in American society.",
+                    "contributor": "by Susan Cain",
+                    "author": "Susan Cain",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Broadway",
+                    "primary_isbn13": "9780307352156",
+                    "primary_isbn10": "0307352153",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307352149.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 9,
+            "rank_last_week": 0,
+            "weeks_on_list": 53,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "None",
+                    "isbn13": "9780143177289"
+                },
+                {
+                    "isbn10": "0374275637",
+                    "isbn13": "9780374275631"
+                },
+                {
+                    "isbn10": "0739357980",
+                    "isbn13": "9780739357989"
+                },
+                {
+                    "isbn10": "0374533555",
+                    "isbn13": "9780374533557"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THINKING, FAST AND SLOW",
+                    "description": "The winner of a Nobel in economic science discusses how we make choices in business and personal life.",
+                    "contributor": "by Daniel Kahneman",
+                    "author": "Daniel Kahneman",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Farrar, Straus & Giroux",
+                    "primary_isbn13": "9780374533557",
+                    "primary_isbn10": "0374533555",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781429969352.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 10,
+            "rank_last_week": 0,
+            "weeks_on_list": 54,
+            "asterisk": 1,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0307592731",
+                    "isbn13": "9780307592736"
+                },
+                {
+                    "isbn10": "0307957659",
+                    "isbn13": "9780307957658"
+                },
+                {
+                    "isbn10": "0307476073",
+                    "isbn13": "9780307476074"
+                },
+                {
+                    "isbn10": "1594136742",
+                    "isbn13": "9781594136740"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "WILD",
+                    "description": "A life-changing hike along the Pacific Crest Trail.",
+                    "contributor": "by Cheryl Strayed",
+                    "author": "Cheryl Strayed",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Vintage",
+                    "primary_isbn13": "9780307476074",
+                    "primary_isbn10": "0307476073",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307476074.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 11,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "1555976719",
+                    "isbn13": "9781555976712"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE EMPATHY EXAMS",
+                    "description": "Essays on pain, both physical and emotional, and self-examination.",
+                    "contributor": "by Leslie Jamison",
+                    "author": "Leslie Jamison",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Graywolf",
+                    "primary_isbn13": "9781555976712",
+                    "primary_isbn10": "1555976719",
+                    "book_image": null
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 12,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 1,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0393081575",
+                    "isbn13": "9780393081572"
+                },
+                {
+                    "isbn10": "0393348741",
+                    "isbn13": "9780393348743"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "GULP",
+                    "description": "A science writer's pilgrimage down the digestive tract; by the author of “Stiff,” “Spook,” “Bonk” and “Packing for Mars.”",
+                    "contributor": "by Mary Roach",
+                    "author": "Mary Roach",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Norton",
+                    "primary_isbn13": "9780393348743",
+                    "primary_isbn10": "0393348741",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780393240306.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 13,
+            "rank_last_week": 0,
+            "weeks_on_list": 38,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0385530269",
+                    "isbn13": "9780385530262"
+                },
+                {
+                    "isbn10": "0385523394",
+                    "isbn13": "9780385523394"
+                },
+                {
+                    "isbn10": "0812986180",
+                    "isbn13": "9780812986181"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "ORANGE IS THE NEW BLACK",
+                    "description": "A year in a women's prison.",
+                    "contributor": "by Piper Kerman",
+                    "author": "Piper Kerman",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Spiegel & Grau",
+                    "primary_isbn13": "9780385523394",
+                    "primary_isbn10": "0385523394",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530262.jpeg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 14,
+            "rank_last_week": 0,
+            "weeks_on_list": 4,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "1451617526",
+                    "isbn13": "9781451617528"
+                },
+                {
+                    "isbn10": "1451617542",
+                    "isbn13": "9781451617542"
+                },
+                {
+                    "isbn10": "1451617534",
+                    "isbn13": "9781451617535"
+                },
+                {
+                    "isbn10": "159413720X",
+                    "isbn13": "9781594137204"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE GIRLS OF ATOMIC CITY",
+                    "description": "Thousands of women took jobs in Oak Ridge, Tenn., during World War II, not knowing that the government project where they worked was enriching uranium for the first atomic bomb.",
+                    "contributor": "by Denise Kiernan",
+                    "author": "Denise Kiernan",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Touchstone",
+                    "primary_isbn13": "9781451617535",
+                    "primary_isbn10": "1451617534",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451617528.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 15,
+            "rank_last_week": 0,
+            "weeks_on_list": 40,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0547564651",
+                    "isbn13": "9780547564654"
+                },
+                {
+                    "isbn10": "054756466X",
+                    "isbn13": "9780547564661"
+                },
+                {
+                    "isbn10": "0544104404",
+                    "isbn13": "9780544104402"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "HOW CHILDREN SUCCEED",
+                    "description": "An argument that character matters more than intelligence.",
+                    "contributor": "by Paul Tough",
+                    "author": "Paul Tough",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Mariner/Houghton Mifflin Harcourt",
+                    "primary_isbn13": "9780544104402",
+                    "primary_isbn10": "0544104404",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780547564654.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 16,
+            "rank_last_week": 0,
+            "weeks_on_list": 58,
+            "asterisk": 1,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0307886263",
+                    "isbn13": "9780307886262"
+                },
+                {
+                    "isbn10": "030788628X",
+                    "isbn13": "9780307886286"
+                },
+                {
+                    "isbn10": "0307886271",
+                    "isbn13": "9780307886279"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "IS EVERYONE HANGING OUT WITHOUT ME?",
+                    "description": "The comedian and actress offers essays about her life.",
+                    "contributor": "by Mindy Kaling",
+                    "author": "Mindy Kaling",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Three Rivers",
+                    "primary_isbn13": "9780307886279",
+                    "primary_isbn10": "0307886271",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307886286.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 17,
+            "rank_last_week": 0,
+            "weeks_on_list": 17,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "0553904248",
+                    "isbn13": "9780553904246"
+                },
+                {
+                    "isbn10": "0345549333",
+                    "isbn13": "9780345549334"
+                },
+                {
+                    "isbn10": "0553384775",
+                    "isbn13": "9780553384772"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE WOLF OF WALL STREET",
+                    "description": "The rise and fall of a financial insider.",
+                    "contributor": "by Jordan Belfort",
+                    "author": "Jordan Belfort",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Bantam",
+                    "primary_isbn13": "9780345549334",
+                    "primary_isbn10": "0345549333",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553904246.jpeg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 18,
+            "rank_last_week": 0,
+            "weeks_on_list": 345,
+            "asterisk": 0,
+            "dagger": 1,
+            "isbns": [
+                {
+                    "isbn10": "074324754X",
+                    "isbn13": "9780743247542"
+                },
+                {
+                    "isbn10": "1416550607",
+                    "isbn13": "9781416550600"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE GLASS CASTLE",
+                    "description": "The author recalls her bizarre childhood, during which she was constantly on the move.",
+                    "contributor": "by Jeannette Walls",
+                    "author": "Jeannette Walls",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Scribner",
+                    "primary_isbn13": "9780743247542",
+                    "primary_isbn10": "074324754X",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781416550600.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "http://www.nytimes.com/2005/03/13/books/chapters/0313-1st-walls.html",
+                    "sunday_review_link": "http://www.nytimes.com/2005/03/13/books/review/013COVERPROSE.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 19,
+            "rank_last_week": 0,
+            "weeks_on_list": 84,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "1595586431",
+                    "isbn13": "9781595586438"
+                },
+                {
+                    "isbn10": "1595581030",
+                    "isbn13": "9781595581037"
+                },
+                {
+                    "isbn10": "1595588191",
+                    "isbn13": "9781595588197"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE NEW JIM CROW",
+                    "description": "Taking aim at the \"war on drugs\" and its impact on black men.",
+                    "contributor": "by Michelle Alexander",
+                    "author": "Michelle Alexander",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "New Press",
+                    "primary_isbn13": "9781595586438",
+                    "primary_isbn10": "1595586431",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781595586438.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "updated": "WEEKLY",
+            "bestsellers_date": "2014-04-05",
+            "published_date": "2014-04-20",
+            "list_image": "9780849946158.jpg",
+            "normal_list_ends_at": 20,
+            "rank": 20,
+            "rank_last_week": 0,
+            "weeks_on_list": 158,
+            "asterisk": 0,
+            "dagger": 0,
+            "isbns": [
+                {
+                    "isbn10": "1400052173",
+                    "isbn13": "9781400052172"
+                },
+                {
+                    "isbn10": "0307589382",
+                    "isbn13": "9780307589385"
+                },
+                {
+                    "isbn10": "1410427927",
+                    "isbn13": "9781410427922"
+                },
+                {
+                    "isbn10": "1400052181",
+                    "isbn13": "9781400052189"
+                },
+                {
+                    "isbn10": "1594134324",
+                    "isbn13": "9781594134326"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+                    "description": "A woman's cancer cells were cultured without permission in 1951.",
+                    "contributor": "by Rebecca Skloot",
+                    "author": "Rebecca Skloot",
+                    "contributor_note": "",
+                    "price": 0,
+                    "age_group": "",
+                    "publisher": "Broadway",
+                    "primary_isbn13": "9781400052189",
+                    "primary_isbn10": "1400052181",
+                    "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307589385.jpg"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "http://www.nytimes.com/2010/02/03/books/03book.html",
+                    "first_chapter_link": "http://www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+                    "sunday_review_link": "http://www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+                    "article_chapter_link": "http://www.nytimes.com/2010/02/02/health/02seco.html"
+                }
+            ]
+        }
+    ]
+}
