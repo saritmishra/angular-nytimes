@@ -15,7 +15,7 @@
 
         console.log("Getting available bestseller categories from NY Times...");
         request({
-            uri: "http://api.nytimes.com/svc/books/v2/lists/names/?api-key="+api_key,
+            uri: "http://api.nytimes.com/svc/books/v2/lists/names/?api-key=" + api_key,
             method: "GET"
         }, function (error, response, body) {
             categories = body;
@@ -28,7 +28,7 @@
 
         console.log("Getting best-sellers for category: " + req.params.category);
         request({
-            uri: "http://api.nytimes.com/svc/books/v2/lists/" + req.params.category + "?api-key="+api_key,
+            uri: "http://api.nytimes.com/svc/books/v2/lists/" + req.params.category + "?api-key=" + api_key,
             method: "GET"
         }, function (error, response, body) {
             bestSellers = body;
