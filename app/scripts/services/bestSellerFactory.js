@@ -10,6 +10,10 @@
             return $resource("/getBestSellers/" + category);
         };
 
+        factory.getCategories = function(){
+            return $resource("/getCategories");
+        };
+
         return factory;
     };
 
