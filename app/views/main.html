@@ -1,23 +1,28 @@
 <h1>Browse Bestsellers</h1>
 
-    <div class="col-md-6 col-md-offset-3 form-inline main-dropdown">
-        <select ng-model="model.selectedCategory" ng-options="category.list_name for category in model.categories" class="dropdown-toggle form-control">
+<div class="col-md-6 col-md-offset-3 form-inline main-dropdown">
+    <select ng-model="model.selectedCategory" ng-options="category.list_name for category in model.categories" class="dropdown-toggle form-control">
             <option value="">-- choose category --</option>
-        </select>
-        <button ng-click="model.getDataFor(model.selectedCategory.list_name)" class="btn btn-default form-control">Get BestSellers!</button>
-    </div>
+    </select>
+    <button ng-click="model.fetchBestSellers()" class="btn btn-default form-control">Get BestSellers!</button>
 
-    <table class="table">
-        <tr>
-            <td>Book</td>
-            <td>Name</td>
-            <td>Author</td>
-            <td>Description</td>
-        </tr>
-        <tr ng-repeat="book in model.bestSellers">
-            <td><img ng-src="{{ model.getDetail(book, 'book_image') }}" alt=""> </td>
-            <td> {{ model.getDetail(book, "title") }}  </td>
-            <td> {{ model.getDetail(book, "author") }}  </td>
-            <td> {{ model.getDetail(book, "description") }}</td>
-        </tr>
-    </table>
+</div>
+
+<table class="table">
+    <tr>
+        <td>Book</td>
+        <td>Name</td>
+        <td>Author</td>
+        <td>Description</td>
+    </tr>
+    <tr ng-repeat="book in model.bestSellers">
+        <td><img ng-src="{{ model.getDetail(book, 'book_image') }}" alt=""> </td>
+        <td> {{ model.getDetail(book, "title") }}  </td>
+        <td> {{ model.getDetail(book, "author") }}  </td>
+        <td> {{ model.getDetail(book, "description") }}</td>
+    </tr>
+</table>
+
+ <pager total-items="model.totalItems" items-per-page="20" ng-model="model.currentPage" ng-click="model.fetchBestSellersNextPage()"></pager>
+
+ <footer class="footer">{{ model.copyright }}</footer>

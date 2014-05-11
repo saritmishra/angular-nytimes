@@ -23,12 +23,17 @@
         });
     });
 
-    app.get("/getBestSellers/:category", function(req, res) {
-        var bestSellers = {};
+    app.get("/getBestSellers/:category/:offset", function(req, res) {
+        var bestSellers = {},
+            paramString = "?api-key=" + api_key;
 
-        console.log("Getting best-sellers for category: " + req.params.category);
+        console.log("Getting best-sellers for category: " + req.params.category + " with offset = " + req.params.offset);
+
+        if (req.params.offset && req.params.offset !== "0")
+            paramString =  paramString + "&offset=" + req.params.offset;
+
         request({
-            uri: "http://api.nytimes.com/svc/books/v2/lists/" + req.params.category + "?api-key=" + api_key,
+            uri: "http://api.nytimes.com/svc/books/v2/lists/" + req.params.category + paramString,
             method: "GET"
         }, function (error, response, body) {
             bestSellers = body;

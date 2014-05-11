@@ -6,8 +6,8 @@
     var bestSellerFactory = function($resource) {
         var factory = {};
 
-        factory.getBestSellers = function(category){
-            return $resource("/getBestSellers/" + category);
+        factory.getBestSellers = function(category, offset){
+            return $resource("/getBestSellers/" + category + "/" + offset);
         };
 
         factory.getCategories = function(){
