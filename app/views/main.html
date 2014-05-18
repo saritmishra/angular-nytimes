@@ -7,19 +7,20 @@
     <button ng-click="model.fetchBestSellers()" class="btn btn-default form-control">Get BestSellers!</button>
 
 </div>
-
 <table class="table">
     <tr>
         <td>Book</td>
         <td>Name</td>
         <td>Author</td>
         <td>Description</td>
+        <td>Your Rating</td>
     </tr>
     <tr ng-repeat="book in model.bestSellers">
-        <td><img ng-src="{{ model.getDetail(book, 'book_image') }}" alt=""> </td>
+        <td><img ng-src="{{ model.getDetail(book, 'book_image') }}" alt=""></td>
         <td> {{ model.getDetail(book, "title") }}  </td>
         <td> {{ model.getDetail(book, "author") }}  </td>
         <td> {{ model.getDetail(book, "description") }}</td>
+        <td><sm-rating rating-value="model.personalRatings[$index]" max-stars="5"></sm-rating></td>
     </tr>
 </table>
 

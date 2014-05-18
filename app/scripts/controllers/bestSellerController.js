@@ -6,9 +6,11 @@
 
         var model = $scope.model = {};
             model.bestSellers = [];
+            model.personalRatings = []; //Not very useful - Not linked to individual books and lost after page-refresh
             model.categories = [];
             model.totalItems = 0;
             model.copyright = "";
+            model.rating ="2";
 
 
         model.getCategories = function() {
@@ -34,6 +36,7 @@
         model.getDataFor = function (category, offset) {
             if (!category)
                 return;
+            model.personalRatings = [];
             category = category.split(" ").join("-");
 
             offset = (offset) ? (offset - 1) * 20 : 1;
