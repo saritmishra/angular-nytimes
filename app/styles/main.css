@@ -3,6 +3,19 @@ img {
     width:100px;
 }
 
+.book-tile {
+    display: inline;
+    /*border: solid black 1px;*/
+}
+
+.book-image {
+
+    position: relative;
+    /*centering technique*/
+    left: 50%;
+    margin: 0 0 0 -50px;
+}
+
 /* Styling for sm-rating directive*/
 sm-rating ul {
       list-style-type: none;

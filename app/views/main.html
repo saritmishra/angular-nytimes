@@ -7,7 +7,15 @@
     <button ng-click="model.fetchBestSellers()" class="btn btn-default form-control">Get BestSellers!</button>
 
 </div>
-<table class="table">
+
+<ul class="pull-left">
+    <li ng-repeat="book in model.bestSellers" class="book-tile col-md-2">
+        <img ng-src="{{ model.getDetail(book, 'book_image') }}" alt="" class="book-image">
+        <sm-rating rating-value="model.personalRatings[$index]" max-stars="5" class="book-rating"></sm-rating>
+    </li>
+</ul>
+
+<!-- <table class="table">
     <tr>
         <td>Book</td>
         <td>Name</td>
@@ -22,7 +30,7 @@
         <td> {{ model.getDetail(book, "description") }}</td>
         <td><sm-rating rating-value="model.personalRatings[$index]" max-stars="5"></sm-rating></td>
     </tr>
-</table>
+</table> -->
 
  <pager total-items="model.totalItems" items-per-page="20" ng-model="model.currentPage" ng-click="model.fetchBestSellersNextPage()"></pager>
 
