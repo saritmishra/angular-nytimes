@@ -5,6 +5,8 @@ img {
 
 .book-tile {
     display: inline;
+    position: relative;
+    overflow: auto;
     /*border: solid black 1px;*/
 }
 
