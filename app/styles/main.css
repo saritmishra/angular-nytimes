@@ -7,6 +7,7 @@ img {
     display: inline;
     position: relative;
     overflow: auto;
+    min-height: 200px;
     /*border: solid black 1px;*/
 }
 
@@ -21,7 +22,9 @@ img {
 /* Styling for sm-rating directive*/
 sm-rating ul {
       list-style-type: none;
-      display: inline-block;
+      text-align: center;
+      padding: 0;
+      /*display: inline-block;*/
  }
 sm-rating li {
       cursor: pointer;
