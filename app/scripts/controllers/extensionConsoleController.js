@@ -2,15 +2,16 @@
 (function () {
     "use strict";
 
-    var bestSellerController = function ($scope, bestSellerFactory) {
+    var extensionConsoleController = function ($scope, extensionConsoleFactory) {
 
         var model = $scope.model = {};
-            model.bestSellers = [];
-            model.personalRatings = []; //Not very useful - Not linked to individual books and lost after page-refresh
-            model.categories = [];
-            model.totalItems = 0;
-            model.copyright = "";
-            model.rating ="2";
+
+            // model.bestSellers = [];
+            // model.personalRatings = []; //Not very useful - Not linked to individual books and lost after page-refresh
+            // model.categories = [];
+            // model.totalItems = 0;
+            // model.copyright = "";
+            // model.rating ="2";
 
 
         model.getCategories = function() {
@@ -62,5 +63,5 @@
 
     };
 
-    angular.module("bestSellersApp").controller("bestSellerController", [ "$scope", "bestSellerFactory", bestSellerController ]);
+    angular.module("extensionConsole").controller("extensionConsoleController", [ "$scope", "extensionConsoleFactory", extensionConsoleController]);
 }());

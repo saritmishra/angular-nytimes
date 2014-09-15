@@ -5,7 +5,7 @@
 "use strict";
 
 angular
-    .module("bestSellersApp", [
+    .module("extensionConsole", [
         "ngResource",
         "ngRoute",
         "ui.bootstrap"
@@ -15,7 +15,7 @@ angular
         $routeProvider
             .when("/", {
                 templateUrl: "views/main.html",
-                controller: "bestSellerController"
+                controller: "extensionConsoleController"
             })
             .otherwise({
                 redirectTo: "/"

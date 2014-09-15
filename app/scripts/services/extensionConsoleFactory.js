@@ -3,7 +3,7 @@
 (function () {
     "use strict";
 
-    var bestSellerFactory = function($resource) {
+    var extensionConsoleFactory = function($resource) {
         var factory = {};
 
         factory.getBestSellers = function(category, offset){
@@ -17,5 +17,5 @@
         return factory;
     };
 
-    angular.module("bestSellersApp").factory("bestSellerFactory", ["$resource", bestSellerFactory]);
+    angular.module("extensionConsole").factory("extensionConsoleFactory", ["$resource", extensionConsoleFactory]);
 }());
